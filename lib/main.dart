@@ -1,6 +1,6 @@
 // lib/main.dart
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
+
 // Importa nossa nova tela de login
 import 'package:studyxp_coach/features/auth/screens/login_screen.dart'; 
 
